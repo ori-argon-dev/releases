@@ -24,8 +24,3 @@ platforms:
       arch: arm64
     uri: https://github.com/ori-argon-dev/releases/releases/download/v1.0/darwin_arm64_v0.122.0-SNAPSHOT-29a8a1e.tar.gz
     bin: ./aqua
-  - selector:
-      os: windows
-      arch: amd64
-    uri: https://github.com/ori-argon-dev/releases/releases/download/v1.0/windows_amd64_v0.122.0-SNAPSHOT-29a8a1e.tar.gz
-    bin: ./aqua
